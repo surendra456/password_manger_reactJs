@@ -1,0 +1,45 @@
+.each-password-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  border-color: #94a3b8;
+  border-width: 2px;
+  border-style: solid;
+  padding: 5px;
+  margin: 20px;
+}
+.title-img {
+  background-color: #10b981;
+  color: #ffffff;
+  font-family: 'roboto';
+  border-radius: 30px;
+  margin: 5px;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding-top: 7px;
+}
+.url-name-password {
+  margin: 10px;
+}
+.url {
+  font-family: 'roboto';
+  color: #ffffff;
+}
+.name {
+  font-family: 'roboto';
+  color: #ffffff;
+}
+.password-img {
+  width: 120px;
+  height: 15px;
+}
+.del-button {
+  background-color: transparent;
+  border-width: 0px;
+}
+.del-img {
+  width: 30%;
+}
